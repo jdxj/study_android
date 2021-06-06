@@ -1,3 +1,4 @@
 rootProject.name = "study_android"
 include ':app'
 include ':mixview'
+include ':recyclerview'
